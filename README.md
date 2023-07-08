@@ -1,4 +1,5 @@
-<h1>Hello, I'm Toyin Aasa, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hello, I'm Toyin Aasa!
+ <h2> an <a href="https://linkedin.com/in/Josh">IT Professional</a>, <a href="https://linkedin.com/in/Josh">Cybersecurity Professional</a>☺</h1> 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
