@@ -14,11 +14,11 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="aasaadeolu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="adeoluaasa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="aasa.adeola | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="aasa.adeola | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/aasa.adeola
-[linkedin]: https://linkedin.com/in/aasaadeolu
+[linkedin]: https://linkedin.com/in/adeoluaasa
 [facebook]: https://www.facebook.com/aasa.adeola
