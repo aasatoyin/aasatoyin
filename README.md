@@ -1,5 +1,5 @@
 <h1>Hello, I'm Toyin Aasa!
- <h2> an <a href="https://linkedin.com/in/adeolu-aasa-687351178">IT Professional</a>, <a href="https://linkedin.com/in/adeolu-aasa-687351178">Cybersecurity Professional</a>☺</h1> 
+ <h2> an <a href="https://linkedin.com/in/toyin-aasa-687351178">IT Professional</a>, <a href="https://linkedin.com/in/toyin-aasa-687351178">Cybersecurity Professional</a>☺</h1> 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
