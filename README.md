@@ -1,7 +1,7 @@
 <h1>Hello, I'm Toyin Aasa!
  <h2> an <a href="https://linkedin.com/in/aasatoyin">IT Professional</a>, <a href="https://linkedin.com/in/aasatoyin">Cybersecurity Professional</a></h1> 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Project:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/aasatoyin/osticket-prereqs)
